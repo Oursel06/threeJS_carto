@@ -1,2 +1,1 @@
-# threeJS_carto
-TP &amp; projet Cartographie / géolocalisation avec threeJS
+<b> Ceci est le dépôt des tp de Géolocalisation ! </b>
